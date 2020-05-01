@@ -1,0 +1,23 @@
+{
+  "name": "entscheidsuche.ch-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "searchkit": "^2.1.1",
+    "searchkit-datefilter": "0.0.2",
+    "searchkit-recharts": "0.0.1",
+    "searchkit-signterms": "0.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.11",
+    "nwb": "0.18.x"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
